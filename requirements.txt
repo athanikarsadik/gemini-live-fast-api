@@ -1,0 +1,12 @@
+# Web framework and server
+fastapi
+uvicorn[standard]
+
+# Google Generative AI client
+google-genai==1.29.0
+
+# Environment variable management
+python-dotenv
+
+# High-performance JSON library (used by FastAPI)
+orjson
